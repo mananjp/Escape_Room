@@ -4,7 +4,7 @@ A Python-based, room-based chat application with client-server architecture, per
 
 ## 🚀 Project Overview
 
-Chat2_0 implements a real-time chat system where users can create or join named chat rooms and communicate through a GUI client. The server manages multiple rooms, broadcasts messages, and maintains per-room chat histories saved to disk.
+Escape Room implements a real-time chat system where users can create or join named chat rooms and communicate through a GUI client. The server manages multiple rooms, broadcasts messages, and maintains per-room chat histories saved to disk.
 
 ## ✨ Key Features
 
